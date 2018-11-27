@@ -1,0 +1,32 @@
+#tou1 {
+	height: 1000px;
+	background-color: azure;
+}
+.bg{
+	background-image: url(../img/0000.jpg);
+	background-repeat: no-repeat;
+	background-size: 1519px;
+	text-align: center;
+	width: 1519px;
+	height: 600px;
+	
+}
+#handhand{
+	background-color: red;
+}
+.pic_jd{
+	width:600px ;
+	height:420px;
+}
+#mid_all{
+	height: 500px;
+	background-color: azure;
+}
+#qianming{
+	display: inline-block;
+	font-family:hanmaobi;
+	font-size: 50px;
+}
+#qianming:hover{
+	font-family: biaoti;
+}

@@ -1,0 +1,45 @@
+.nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #555;
+	overflow: hidden;
+	width: 100%;
+	z-index: 5;
+}
+
+.nav_li {
+	display: inline-block;
+	float: left;
+	width: 25%;
+}
+
+.nav_a {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	width: 100%;
+	padding: 1.3em 0px;
+	text-decoration: none;
+	font-family: "黑体";
+	font-size: 1.3em;
+	line-height: 1em;
+}
+
+.nav_a:hover {
+	background-color: #111;
+	color: white;
+}
+
+.nav_a_active {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	padding: 1.3em 0px;
+	text-decoration: none;
+	font-family: "黑体";
+	font-size: 1.3em;
+	line-height: 1em;
+	background-color: #4CAF50;
+	color: white;
+}

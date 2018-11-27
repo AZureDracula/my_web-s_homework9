@@ -1,0 +1,51 @@
+* {
+	margin: 0px auto;
+	padding: 0px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+body {
+	min-height: 1080px;
+	width: 100%;
+	height: 100%;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+.base {
+	width: 100%;
+	height: 100%;
+}
+
+@font-face {
+	font-family: hanmaobi;
+	src: url(../zt/hanW.ttf);
+}
+@font-face {
+	font-family: biaoti;
+	src: url(../zt/qi.ttf);
+}
+@font-face {
+	font-family: qianzi;
+	src: url(../zt/zi.ttf);
+}
+.big4{
+	font-family: biaoti;
+	font-size: 40px;
+}
+.big3{
+	font-family: biaoti; 
+	font-size: 32px;
+}
+.big2{
+	font-family: biaoti; 
+	font-size: 22px;
+}
+.big1{
+	font-family: biaoti; 
+	font-size: 19px;
+}
